@@ -1,0 +1,27 @@
+/* CountdownApp.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #ff4e50, #f9d423);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  color: #ffffff; /* Yazı rengi */
+}
+
+.container {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9); /* Hafif saydam beyaz arka plan */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+/* İster ve ihtiyaca göre diğer stiller ekleyebilirsiniz */
